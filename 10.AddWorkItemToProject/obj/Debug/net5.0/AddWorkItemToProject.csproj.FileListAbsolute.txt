@@ -1,0 +1,15 @@
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\AddWorkItemToProject.exe
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\AddWorkItemToProject.deps.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\AddWorkItemToProject.runtimeconfig.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\AddWorkItemToProject.runtimeconfig.dev.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\AddWorkItemToProject.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\AddWorkItemToProject.pdb
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.csprojAssemblyReference.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.AssemblyInfoInputs.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.AssemblyInfo.cs
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.csproj.CoreCompileInputs.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.csproj.CopyComplete
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.pdb
+C:\Users\Yash\Desktop\Novatech Software\Azure\10.AddWorkItemToProject\obj\Debug\net5.0\AddWorkItemToProject.genruntimeconfig.cache

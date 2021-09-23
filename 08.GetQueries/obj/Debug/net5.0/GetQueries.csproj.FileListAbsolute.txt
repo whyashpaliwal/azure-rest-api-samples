@@ -1,0 +1,13 @@
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\bin\Debug\net5.0\GetQueries.exe
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\bin\Debug\net5.0\GetQueries.deps.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\bin\Debug\net5.0\GetQueries.runtimeconfig.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\bin\Debug\net5.0\GetQueries.runtimeconfig.dev.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\bin\Debug\net5.0\GetQueries.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\bin\Debug\net5.0\GetQueries.pdb
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.csprojAssemblyReference.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.AssemblyInfoInputs.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.AssemblyInfo.cs
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.csproj.CoreCompileInputs.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.pdb
+C:\Users\Yash\Desktop\Novatech Software\Azure\GetQueries\obj\Debug\net5.0\GetQueries.genruntimeconfig.cache

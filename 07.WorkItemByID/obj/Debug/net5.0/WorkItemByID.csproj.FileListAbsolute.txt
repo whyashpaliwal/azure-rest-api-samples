@@ -1,0 +1,13 @@
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\bin\Debug\net5.0\WorkItemByID.exe
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\bin\Debug\net5.0\WorkItemByID.deps.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\bin\Debug\net5.0\WorkItemByID.runtimeconfig.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\bin\Debug\net5.0\WorkItemByID.runtimeconfig.dev.json
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\bin\Debug\net5.0\WorkItemByID.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\bin\Debug\net5.0\WorkItemByID.pdb
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.csprojAssemblyReference.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.AssemblyInfoInputs.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.AssemblyInfo.cs
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.csproj.CoreCompileInputs.cache
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.dll
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.pdb
+C:\Users\Yash\Desktop\Novatech Software\Azure\07.WorkItemByID\obj\Debug\net5.0\WorkItemByID.genruntimeconfig.cache
